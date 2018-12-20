@@ -1,0 +1,4 @@
+All images used on pages Images, Features, Watch Blog must be a 3:2 ratio, and it is recommended to have them at 1500px width minimum so they are not pixelated on large screens.
+Images in featured section on index.html and press release must be 1:1 square ratio. The images in the featured section of index.html should always have a black overlay with an opacity of 23% (done in photoshop).
+Edit var totalPages = #; when adding extra pages on to watch-blog.html maximum of 18 items per page.
+If you have any issues please contact me at 717-698-5564.
