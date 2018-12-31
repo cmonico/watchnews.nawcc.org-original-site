@@ -233,7 +233,7 @@ body {
 }
 
 .sub_blog_overlay_container{
-	width: 90.5%;
+	width: 90%;
 	height: 86%;
 	position:absolute;
 	-webkit-transition: ease .5s;
